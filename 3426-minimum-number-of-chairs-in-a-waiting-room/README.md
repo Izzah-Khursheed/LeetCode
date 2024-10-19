@@ -177,7 +177,7 @@
 	<li><code>s</code> represents a valid sequence of entries and exits.</li>
 </ul>
 
-
+<hr>
 <P>🧠 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡 𝐚𝐧𝐝 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧: <br>
 ◾ In this solution, we maintain 𝐭𝐰𝐨 𝐯𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬: <br>
 --> 𝐩𝐞𝐫𝐬𝐨𝐧: to track the number of people currently in the waiting room. <br>
